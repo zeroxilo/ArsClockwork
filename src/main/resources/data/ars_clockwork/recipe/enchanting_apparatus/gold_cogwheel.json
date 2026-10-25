@@ -1,0 +1,22 @@
+{
+	"type": "ars_nouveau:enchanting_apparatus",
+	"keepNbtOfReagent": true,
+	"pedestalItems": [
+		{"item": "ars_clockwork:good_gold_ingot"},
+		{"item": "ars_clockwork:bad_gold_ingot"},
+		{"item": "ars_clockwork:good_gold_ingot"},
+		{"item": "ars_clockwork:bad_gold_ingot"},
+		{"item": "ars_clockwork:good_gold_ingot"},
+		{"item": "ars_clockwork:bad_gold_ingot"},
+		{"item": "ars_clockwork:good_gold_ingot"},
+		{"item": "ars_clockwork:bad_gold_ingot"}
+	],
+	"reagent": {
+		"item": "ars_nouveau:ring_of_potential"
+	},
+	"result": {
+		"count": 1,
+		"id": "ars_clockwork:gold_cogwheel"
+	},
+	"sourceCost": 8000
+}

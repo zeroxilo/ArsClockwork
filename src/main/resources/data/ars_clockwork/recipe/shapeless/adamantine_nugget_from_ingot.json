@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ars_clockwork:adamantine_nugget",
+  "ingredients": [
+    {
+      "item": "ars_clockwork:adamantine_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "ars_clockwork:adamantine_nugget"
+  }
+}

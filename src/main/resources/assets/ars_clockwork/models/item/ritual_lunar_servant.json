@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ars_clockwork:item/tablet/ritual_lunar_servant"
+  }
+}

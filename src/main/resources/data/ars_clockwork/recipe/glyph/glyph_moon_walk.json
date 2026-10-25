@@ -1,0 +1,14 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_clockwork:lunar_essence"},
+		{"item": "ars_clockwork:clouds"},
+		{"item": "ars_clockwork:clouds"},
+		{"item": "minecraft:iron_boots"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_moon_walk"
+	}
+}

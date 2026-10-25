@@ -1,0 +1,21 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:ingots/iron"
+	},
+	"pedestalItems": [
+		{"item" : "ars_nouveau:fire_essence"},
+		{"item" : "ars_nouveau:water_essence"},
+		{"item" : "ars_nouveau:air_essence"},
+		{"item" : "ars_nouveau:earth_essence"},
+		{"item" : "ars_nouveau:manipulation_essence"},
+		{"item" : "ars_nouveau:conjuration_essence"},
+		{"item" : "ars_clockwork:lunar_essence"},
+		{"item" : "ars_clockwork:solar_essence"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:mithril_nugget"
+	},
+	"source": 2000
+}

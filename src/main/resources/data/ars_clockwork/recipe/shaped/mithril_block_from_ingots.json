@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:mithril_block",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:mithril_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:mithril_block"
+  },
+  "show_notification": true
+}

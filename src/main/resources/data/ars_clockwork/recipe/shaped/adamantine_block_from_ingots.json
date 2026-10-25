@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:adamantine_block",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:adamantine_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:adamantine_block"
+  },
+  "show_notification": true
+}

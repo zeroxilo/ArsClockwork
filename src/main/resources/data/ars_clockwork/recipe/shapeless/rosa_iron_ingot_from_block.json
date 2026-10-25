@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ars_clockwork:rosa_iron_ingot",
+  "ingredients": [
+    {
+      "item": "ars_clockwork:rosa_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "ars_clockwork:rosa_iron_ingot"
+  }
+}

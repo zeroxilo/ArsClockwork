@@ -1,0 +1,17 @@
+{
+	"type": "ars_nouveau:enchanting_apparatus",
+	"keepNbtOfReagent": false,
+	"pedestalItems": [
+		{"item": "ars_clockwork:solar_essence"},
+		{"item": "ars_clockwork:solar_essence"},
+		{"item": "ars_clockwork:solar_essence"}
+	],
+	"reagent": {
+		"item": "minecraft:stone"
+	},
+	"result": {
+		"count": 1,
+		"id": "ars_clockwork:solar_stone"
+	},
+	"sourceCost": 2000
+}

@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:ingots/copper"
+	},
+	"pedestalItems": [
+		{"item" : "ars_clockwork:jade"},
+		{"item" : "ars_nouveau:experience_gem"},
+		{"item" : "minecraft:deepslate"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:orichalcum_nugget"
+	},
+	"source": 2000
+}

@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/source"
+	},
+	"pedestalItems": [
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:chaos_essence"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:target_gem"
+	},
+	"source": 2000
+}

@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/source"
+	},
+	"pedestalItems": [
+		{"item": "ars_clockwork:solar_stone"},
+		{"item": "minecraft:shroomlight"},
+		{"item": "minecraft:copper_bulb"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:solar_essence"
+	},
+	"source": 2000
+}

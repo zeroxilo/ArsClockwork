@@ -1,0 +1,15 @@
+{
+	"type": "ars_nouveau:enchanting_apparatus",
+	"keepNbtOfReagent": false,
+	"pedestalItems": [
+		{"item": "ars_clockwork:chaos_essence"}
+	],
+	"reagent": {
+		"item": "minecraft:wheat_seeds"
+	},
+	"result": {
+		"count": 1,
+		"id": "ars_clockwork:random_seed"
+	},
+	"sourceCost": 2000
+}

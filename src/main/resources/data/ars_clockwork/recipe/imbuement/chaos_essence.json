@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/source"
+	},
+	"pedestalItems": [
+		{"item": "ars_clockwork:random_seed"},
+		{"item": "minecraft:tnt"},
+		{"item": "minecraft:ender_eye"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:chaos_essence"
+	},
+	"source": 2000
+}

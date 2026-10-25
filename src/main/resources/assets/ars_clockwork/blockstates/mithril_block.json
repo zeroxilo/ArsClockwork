@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ars_clockwork:block/mithril_block"
+    }
+  }
+}

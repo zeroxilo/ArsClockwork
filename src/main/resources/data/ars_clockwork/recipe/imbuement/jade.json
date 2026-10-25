@@ -1,0 +1,12 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/emerald"
+	},
+	"pedestalItems": [],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:jade"
+	},
+	"source": 10000
+}

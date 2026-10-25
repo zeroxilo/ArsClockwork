@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:bad_gold_ingot",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:bad_gold_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:bad_gold_ingot"
+  },
+  "show_notification": true
+}

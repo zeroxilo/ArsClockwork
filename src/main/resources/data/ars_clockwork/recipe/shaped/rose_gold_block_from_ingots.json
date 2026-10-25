@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:rose_gold_block",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:rose_gold_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:rose_gold_block"
+  },
+  "show_notification": true
+}

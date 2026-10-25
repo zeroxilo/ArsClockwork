@@ -1,0 +1,11 @@
+{
+	"type": "ars_clockwork:merge",
+	"inputs": [
+		{"tag": "c:ingots/copper"},
+		{"tag": "c:ingots/gold"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:rose_gold_ingot"
+	}
+}

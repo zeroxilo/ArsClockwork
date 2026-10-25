@@ -1,0 +1,13 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_clockwork:solar_essence"},
+		{"item": "minecraft:beacon"},
+		{"item": "minecraft:ancient_debris"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_sunburst"
+	}
+}

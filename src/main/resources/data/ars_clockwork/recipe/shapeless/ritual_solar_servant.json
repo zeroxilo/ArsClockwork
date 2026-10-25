@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{"item": "ars_nouveau:red_archwood_log"},
+		{"item": "ars_clockwork:solar_stone"},
+		{"item": "ars_clockwork:jade"},
+		{"tag": "c:gems/diamond"},
+		{"item": "minecraft:amethyst_shard"},
+		{"tag": "c:gems/lapis"},
+		{"tag": "c:ingots/gold"}
+	],
+	"result": {
+		"count": 1,
+		"id": "ars_clockwork:ritual_solar_servant"
+	}
+}

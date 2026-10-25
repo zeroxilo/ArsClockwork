@@ -1,0 +1,15 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_clockwork:solar_essence"},
+		{"item": "minecraft:golden_helmet"},
+		{"item": "minecraft:golden_chestplate"},
+		{"item": "minecraft:golden_leggings"},
+		{"item": "minecraft:gold_boots"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_paladin"
+	}
+}

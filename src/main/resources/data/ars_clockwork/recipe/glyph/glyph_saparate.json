@@ -1,0 +1,13 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_nouveau:manipulation_essence"},
+		{"item": "ars_clockwork:rose_gold_ingot"},
+		{"item": "ars_clockwork:rosa_iron_ingot"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_saparate"
+	}
+}

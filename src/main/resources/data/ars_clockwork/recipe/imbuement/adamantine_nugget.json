@@ -1,0 +1,20 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:ingots/gold"
+	},
+	"pedestalItems": [
+		{"item" : "minecraft:enchanted_golden_apple"},
+		{"item" : "minecraft:echo_shard"},
+		{"item" : "minecraft:nether_star"},
+		{"item" : "minecraft:elytra"},
+		{"item" : "ars_nouveau:amethyst_golem_charm"},
+		{"item" : "ars_nouveau:bookwyrm_charm"},
+		{"item" : "ars_nouveau:wixie_charm"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:adamantine_nugget"
+	},
+	"source": 10000
+}

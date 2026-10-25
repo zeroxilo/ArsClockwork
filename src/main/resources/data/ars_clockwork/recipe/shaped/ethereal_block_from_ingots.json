@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:ethereal_block",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:ethereal_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:ethereal_block"
+  },
+  "show_notification": true
+}

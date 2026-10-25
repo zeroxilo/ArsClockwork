@@ -1,0 +1,13 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_clockwork:lunar_essence"},
+		{"item": "ars_clockwork:adamantine_ingot"},
+		{"item": "minecraft:iron_sword"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_moon_slash"
+	}
+}

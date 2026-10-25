@@ -1,13 +1,13 @@
 {
 	"replace" : false,
 	"values": [
-		"arsclockwork:bad_gold_block",
-		"arsclockwork:good_gold_block",
-		"arsclockwork:orichalcum_block",
-		"arsclockwork:mithril_block",
-		"arsclockwork:adamantine_block",
-		"arsclockwork:ethereal_block",
-		"arsclockwork:rose_gold_block",
-		"arsclockwork:rosa_iron_block"
+		"ars_clockwork:bad_gold_block",
+		"ars_clockwork:good_gold_block",
+		"ars_clockwork:orichalcum_block",
+		"ars_clockwork:mithril_block",
+		"ars_clockwork:adamantine_block",
+		"ars_clockwork:ethereal_block",
+		"ars_clockwork:rose_gold_block",
+		"ars_clockwork:rosa_iron_block"
 	]
 }

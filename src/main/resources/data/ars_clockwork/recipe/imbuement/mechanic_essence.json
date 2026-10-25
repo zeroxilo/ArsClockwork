@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/source"
+	},
+	"pedestalItems": [
+		{"tag": "c:ingots/gold"},
+		{"item": "minecraft:lever"},
+		{"item": "minecraft:redstone"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:mechanic_essence"
+	},
+	"source": 2000
+}

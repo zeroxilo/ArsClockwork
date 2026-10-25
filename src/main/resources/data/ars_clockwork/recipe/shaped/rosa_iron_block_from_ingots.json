@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ars_clockwork:rosa_iron_block",
+  "key": {
+    "#": {
+      "item": "ars_clockwork:rosa_iron_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "ars_clockwork:rosa_iron_block"
+  },
+  "show_notification": true
+}

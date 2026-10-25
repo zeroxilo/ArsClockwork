@@ -1,0 +1,16 @@
+{
+	"type": "ars_nouveau:imbuement",
+	"input": {
+		"tag": "c:gems/source"
+	},
+	"pedestalItems": [
+		{"item": "ars_clockwork:lunar_stone"},
+		{"item": "minecraft:amethyst_shard"},
+		{"item": "minecraft:quartz"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:lunar_essence"
+	},
+	"source": 2000
+}

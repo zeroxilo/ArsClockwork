@@ -1,0 +1,13 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_clockwork:lunar_essence"},
+		{"item": "minecraft:tinted_glass"},
+		{"item": "minecraft:glowstone"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_moonbeam"
+	}
+}

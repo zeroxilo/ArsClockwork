@@ -1,0 +1,14 @@
+{
+	"type": "ars_nouveau:glyph",
+	"exp": 27,
+	"inputs": [
+		{"item": "ars_nouveau:manipulation_essence"},
+		{"item": "minecraft:copper_ingot"},
+		{"item": "minecraft:iron_ingot"},
+		{"item": "minecraft:gold_ingot"}
+	],
+	"output": {
+		"count": 1,
+		"id": "ars_clockwork:glyph_merge"
+	}
+}

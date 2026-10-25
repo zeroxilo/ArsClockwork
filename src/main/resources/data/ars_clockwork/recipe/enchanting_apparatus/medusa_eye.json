@@ -1,0 +1,19 @@
+{
+	"type": "ars_nouveau:enchanting_apparatus",
+	"keepNbtOfReagent": true,
+	"pedestalItems": [
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:chaos_essence"},
+		{"item": "ars_clockwork:bad_gold_block"}
+	],
+	"reagent": {
+		"item": "minecraft:ender_eye"
+	},
+	"result": {
+		"count": 1,
+		"id": "ars_clockwork:medusa_eye"
+	},
+	"sourceCost": 8000
+}
