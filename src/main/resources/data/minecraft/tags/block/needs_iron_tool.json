@@ -1,0 +1,13 @@
+{
+	"replace" : false,
+	"values": [
+		"arsclockwork:bad_gold_block",
+		"arsclockwork:good_gold_block",
+		"arsclockwork:orichalcum_block",
+		"arsclockwork:mithril_block",
+		"arsclockwork:adamantine_block",
+		"arsclockwork:ethereal_block",
+		"arsclockwork:rose_gold_block",
+		"arsclockwork:rosa_iron_block"
+	]
+}

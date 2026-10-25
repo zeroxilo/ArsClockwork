@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "arsclockwork:block/bad_gold_block"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "arsclockwork:mithril_nugget",
+  "ingredients": [
+    {
+      "item": "arsclockwork:mithril_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "arsclockwork:mithril_nugget"
+  }
+}

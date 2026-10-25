@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "arsclockwork:bad_gold_block",
+  "key": {
+    "#": {
+      "item": "arsclockwork:bad_gold_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "arsclockwork:bad_gold_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "arsclockwork:ethereal_nugget",
+  "ingredients": [
+    {
+      "item": "arsclockwork:ethereal_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "arsclockwork:ethereal_nugget"
+  }
+}

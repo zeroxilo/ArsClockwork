@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "arsclockwork:orichalcum_ingot",
+  "key": {
+    "#": {
+      "item": "arsclockwork:orichalcum_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "arsclockwork:orichalcum_ingot"
+  },
+  "show_notification": true
+}

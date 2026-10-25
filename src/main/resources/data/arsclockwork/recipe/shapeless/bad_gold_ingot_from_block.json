@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "arsclockwork:bad_gold_ingot",
+  "ingredients": [
+    {
+      "item": "arsclockwork:bad_gold_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "arsclockwork:bad_gold_ingot"
+  }
+}

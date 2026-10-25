@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "arsclockwork:ethereal_ingot",
+  "ingredients": [
+    {
+      "item": "arsclockwork:ethereal_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "arsclockwork:ethereal_ingot"
+  }
+}
